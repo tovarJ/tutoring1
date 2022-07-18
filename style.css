@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+.lefty{
+    float: left;
+}
+
+#firstParragraft{
+    padding-left: 600px;
+}
+
+.middle{
+    display:block;
+    text-align:center
+}
